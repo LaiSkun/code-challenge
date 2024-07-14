@@ -1,0 +1,4 @@
+- Removed the extraction of children prop as it was not used in the component.
+- Combined the filtering and sorting into a single useMemo call to reduce the number of iterations over the balances array.
+- Change FormattedWalletBalance and WalletBalance
+- Calculated usdValue inside the useMemo to avoid recalculating it during every render

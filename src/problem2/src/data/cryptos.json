@@ -1,0 +1,282 @@
+[
+    {
+        "id": "BLUR",
+        "currency": "BLUR",
+        "token": "BLUR",
+        "price": 0.208115254237288,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/BLUR.svg"
+    },
+    {
+        "id": "bNEO",
+        "currency": "bNEO",
+        "token": "bNEO",
+        "price": 7.1282679,
+        "date": "2023-08-29T07:10:50.000Z",
+        "icon": "./cryptos/bNEO.svg"
+    },
+    {
+        "id": "BUSD",
+        "currency": "BUSD",
+        "token": "BUSD",
+        "price": 0.999183113,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/BUSD.svg"
+    },
+    {
+        "id": "USD",
+        "currency": "USD",
+        "token": "USD",
+        "price": 1,
+        "date": "2023-08-29T07:10:30.000Z",
+        "icon": "./cryptos/USD.svg"
+    },
+    {
+        "id": "ETH",
+        "currency": "ETH",
+        "token": "ETH",
+        "price": 1645.93373737374,
+        "date": "2023-08-29T07:10:52.000Z",
+        "icon": "./cryptos/ETH.svg"
+    },
+    {
+        "id": "GMX",
+        "currency": "GMX",
+        "token": "GMX",
+        "price": 36.3451143728814,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/GMX.svg"
+    },
+    {
+        "id": "STEVMOS",
+        "currency": "STEVMOS",
+        "token": "STEVMOS",
+        "price": 0.0727670677966102,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/STEVMOS.svg"
+    },
+    {
+        "id": "LUNA",
+        "currency": "LUNA",
+        "token": "LUNA",
+        "price": 0.409556389830508,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/LUNA.svg"
+    },
+    {
+        "id": "RATOM",
+        "currency": "RATOM",
+        "token": "RATOM",
+        "price": 10.2509189152542,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/RATOM.svg"
+    },
+    {
+        "id": "STRD",
+        "currency": "STRD",
+        "token": "STRD",
+        "price": 0.738655338983051,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/STRD.svg"
+    },
+    {
+        "id": "EVMOS",
+        "currency": "EVMOS",
+        "token": "EVMOS",
+        "price": 0.062461813559322,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/EVMOS.svg"
+    },
+    {
+        "id": "IBCX",
+        "currency": "IBCX",
+        "token": "IBCX",
+        "price": 41.268113559322,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/IBCX.svg"
+    },
+    {
+        "id": "IRIS",
+        "currency": "IRIS",
+        "token": "IRIS",
+        "price": 0.0177095593220339,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/IRIS.svg"
+    },
+    {
+        "id": "ampLUNA",
+        "currency": "ampLUNA",
+        "token": "ampLUNA",
+        "price": 0.495485898305085,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/ampLUNA.svg"
+    },
+    {
+        "id": "KUJI",
+        "currency": "KUJI",
+        "token": "KUJI",
+        "price": 0.675,
+        "date": "2023-08-29T07:10:45.000Z",
+        "icon": "./cryptos/KUJI.svg"
+    },
+    {
+        "id": "STOSMO",
+        "currency": "STOSMO",
+        "token": "STOSMO",
+        "price": 0.431318,
+        "date": "2023-08-29T07:10:45.000Z",
+        "icon": "./cryptos/STOSMO.svg"
+    },
+    {
+        "id": "USDC",
+        "currency": "USDC",
+        "token": "USDC",
+        "price": 0.989832,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/USDC.svg"
+    },
+    {
+        "id": "axlUSDC",
+        "currency": "axlUSDC",
+        "token": "axlUSDC",
+        "price": 0.989832,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/axlUSDC.svg"
+    },
+    {
+        "id": "ATOM",
+        "currency": "ATOM",
+        "token": "ATOM",
+        "price": 7.18665733333333,
+        "date": "2023-08-29T07:10:50.000Z",
+        "icon": "./cryptos/ATOM.svg"
+    },
+    {
+        "id": "STATOM",
+        "currency": "STATOM",
+        "token": "STATOM",
+        "price": 8.51216205084746,
+        "date": "2023-08-29T07:10:45.000Z",
+        "icon": "./cryptos/STATOM.svg"
+    },
+    {
+        "id": "OSMO",
+        "currency": "OSMO",
+        "token": "OSMO",
+        "price": 0.377297433333333,
+        "date": "2023-08-29T07:10:50.000Z",
+        "icon": "./cryptos/OSMO.svg"
+    },
+    {
+        "id": "rSWTH",
+        "currency": "rSWTH",
+        "token": "rSWTH",
+        "price": 0.00408771,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/rSWTH.svg"
+    },
+    {
+        "id": "STLUNA",
+        "currency": "STLUNA",
+        "token": "STLUNA",
+        "price": 0.442322101694915,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/STLUNA.svg"
+    },
+    {
+        "id": "LSI",
+        "currency": "LSI",
+        "token": "LSI",
+        "price": 67.6966152542373,
+        "date": "2023-08-29T07:10:50.000Z",
+        "icon": "./cryptos/LSI.svg"
+    },
+    {
+        "id": "OKB",
+        "currency": "OKB",
+        "token": "OKB",
+        "price": 42.9756205932203,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/OKB.svg"
+    },
+    {
+        "id": "OKT",
+        "currency": "OKT",
+        "token": "OKT",
+        "price": 13.5615779661017,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/OKT.svg"
+    },
+    {
+        "id": "SWTH",
+        "currency": "SWTH",
+        "token": "SWTH",
+        "price": 0.00403985045501208,
+        "date": "2023-08-29T07:10:45.000Z",
+        "icon": "./cryptos/SWTH.svg"
+    },
+    {
+        "id": "USC",
+        "currency": "USC",
+        "token": "USC",
+        "price": 0.994,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/USC.svg"
+    },
+    {
+        "id": "USDC",
+        "currency": "USDC",
+        "token": "USDC",
+        "price": 1,
+        "date": "2023-08-29T07:10:30.000Z",
+        "icon": "./cryptos/USDC.svg"
+    },
+    {
+        "id": "USDC",
+        "currency": "USDC",
+        "token": "USDC",
+        "price": 1,
+        "date": "2023-08-29T07:10:30.000Z",
+        "icon": "./cryptos/USDC.svg"
+    },
+    {
+        "id": "USDC",
+        "currency": "USDC",
+        "token": "USDC",
+        "price": 0.999878261118644,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/USDC.svg"
+    },
+    {
+        "id": "WBTC",
+        "currency": "WBTC",
+        "token": "WBTC",
+        "price": 26002.822020202,
+        "date": "2023-08-29T07:10:52.000Z",
+        "icon": "./cryptos/WBTC.svg"
+    },
+    {
+        "id": "wstETH",
+        "currency": "wstETH",
+        "token": "wstETH",
+        "price": 1872.25797423729,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/wstETH.svg"
+    },
+    {
+        "id": "YieldUSD",
+        "currency": "YieldUSD",
+        "token": "YieldUSD",
+        "price": 1.02908479661017,
+        "date": "2023-08-29T07:10:40.000Z",
+        "icon": "./cryptos/YieldUSD.svg"
+    },
+    {
+        "id": "ZIL",
+        "currency": "ZIL",
+        "token": "ZIL",
+        "price": 0.0165181355932203,
+        "date": "2023-08-29T07:10:50.000Z",
+        "icon": "./cryptos/ZIL.svg"
+    }
+]
